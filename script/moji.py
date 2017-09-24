@@ -1,3 +1,6 @@
+'''
+This script generates data files for calculator.
+'''
 from PIL import Image, ImageDraw, ImageFont
 import sys
 

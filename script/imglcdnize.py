@@ -1,3 +1,6 @@
+'''
+This script converts the image into the series of data for displaying on the LCD.
+'''
 import numpy as np
 from PIL import Image, ImageFilter, ImageChops, ImageOps
 import sys
